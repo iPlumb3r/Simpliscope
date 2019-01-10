@@ -15,8 +15,7 @@ Lors de la conception d’une __application informatique__ devant supporter des 
 
 Finalité
 -
-Le __dichoscope__ est un outil méthodologique d'ingénierie des connaissances est essentiellement “constitué” du _principe de séparation des considérations_ et de _lentilles sémantiques_. 
-Il permet d'accroitre significativement le niveau de pertinance du __modèle sémantique des concepts métiers__ à concevoir.
+Le __dichoscope__ est un outil méthodologique d'ingénierie des connaissances est essentiellement “constitué” du _principe de séparation des considérations_ et de _lentilles sémantiques_ qui permet d'accroitre significativement le niveau de pertinance du __modèle sémantique des concepts métiers__ à concevoir.
 
 Remarque : le _principe de séparation des considérations_ (dit aussi principe de séparation des préoccupations ou principe de séparation des aspects) est plus connu sous sa dénomination anglo-saxonne de “Separation Of Concerns Principle” 
 
