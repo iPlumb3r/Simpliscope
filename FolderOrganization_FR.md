@@ -22,7 +22,7 @@ Proposition
             <td>0.</td>
             <td>Finality</td>
             <td>Document(s) permettant de définir la finalité de l’ontologie</td>
-            <td>Quel son but, son usage clef ?</br>A quoi et à quoi va-t-elle servir ?</td>
+            <td>Quel son but, son usage clef ?</br>A qui et à quoi va-t-elle servir ?</td>
             <td>Il est pertinent d'identifier les  3  choses suivantes :
 Les objectifs à atteindre
 Les facteurs influençants (éléments perturbants le fonctionnement actuel)
