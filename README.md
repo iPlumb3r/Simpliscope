@@ -25,19 +25,19 @@ Le _principe de “Separation Of Concerns”_ permet d'étudier les différents 
 
 Les _lentilles sémantiques_ sont des modèles sémantiques “élémentaires” permettant d’observer un __domaine de connaissances__ dans le but de le modéliser de la manière la plus pertinente possible. Elles se subdivisent en les catégories suivantes :
 
-    génériques : c-à-d relatives aux domaines de connaissances en général
-    spécifiques : c-à-d relatives à un domaine de connaissances particulier
+ * génériques : c-à-d relatives aux domaines de connaissances en général
+ * spécifiques : c-à-d relatives à un domaine de connaissances particulier
 
 L’axe d’analyse incarné par chaque __aspect__ est généralement structuré par une dichotomie (voire d’une trichotomie), ce qui signifie que la chose observée relève soit d’une “nature”, soit de l’autre, mais ne peut pas relever des 2 à la fois, et qu’elle doit ainsi obéir à cette exigence d’alternative.
 
 Suite ...
 -
 Plus d'info dans les articles suivants :   
-<a href="https://www.linkedin.com/pulse/le-dicho-scope-et-principe-de-separation-concerns-bernard-chabot/">Le dicho-scope et le principe de "Separation Of Concerns"</a>
+* <a href="https://www.linkedin.com/pulse/le-dicho-scope-et-principe-de-separation-concerns-bernard-chabot/">Le dicho-scope et le principe de "Separation Of Concerns"</a>
 
-<a href="https://www.linkedin.com/pulse/le-dicho-scope-et-les-dichotomies-g%C3%A9n%C3%A9riques-bernard-chabot/">Le dicho-scope et les dichotomies génériques</a>
+* <a href="https://www.linkedin.com/pulse/le-dicho-scope-et-les-dichotomies-g%C3%A9n%C3%A9riques-bernard-chabot/">Le dicho-scope et les dichotomies génériques</a>
 
-<a href="https://www.linkedin.com/pulse/le-dichoschope-et-les-dichotomies-sp%C3%A9cifiques-au-plm-bernard-chabot/">Le dichoscope et les dichotomies spécifiques au PLM</a>
+* <a href="https://www.linkedin.com/pulse/le-dichoschope-et-les-dichotomies-sp%C3%A9cifiques-au-plm-bernard-chabot/">Le dichoscope et les dichotomies spécifiques au PLM</a>
 
 
 
