@@ -15,6 +15,6 @@ Pour déterminer de manière non ambiguë « de quel produit on parle », il est
 * Un moteur "tel que fabriqué"
  …
 
-De cette manièren, chaque produit « intersection » est donc caractérisé à la fois par : 
+De cette manière, chaque produit « intersection » est donc caractérisé à la fois par : 
 * les caractéristiques (dimension, taille, forme, texture, …) du produit « extensionnel » auquel il appartient, 
 * mais également par les caractéristiques (code, label, prix, délais de livraison, …) son produit intentionnel de référence.
