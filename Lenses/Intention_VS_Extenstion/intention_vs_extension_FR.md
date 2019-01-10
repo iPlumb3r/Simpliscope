@@ -9,9 +9,9 @@ On a d’une part les produits « naturels » (ou « extensionnels ») qui se d�
 
 Pour déterminer de manière non ambiguë « de quel produit on parle », il est nécessaire de spécifier sur quelle « intersection » il se trouve. Par exemple :
 
-* Un camion « tel que conçu »
-* Un châssis « tel qu’à fabriquer »
-* Un moteur « tel que fabriqué
+* Un camion "tel que conçu"
+* Un châssis "tel qu’à fabriquer"
+* Un moteur "tel que fabriqué"
  …
 
 En toute logique, un produit ne peut se définr complètement qu'à l'intersection entre son "intention" et son "extension" !
