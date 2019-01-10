@@ -65,12 +65,25 @@ Ensuite, dans certaines circonstances, il peut être utile d'identifier en compl
 </td>
         </tr>
         <tr>
-            <td>1.0.</td>
-            <td>Overview</td>
+            <td>1.2.</td>
+            <td>Documents</td>
             <td>Document de présentation concise du périmètre de l’ontologie</td>
-            <td>Liste des activités métiers à supporter</td>
-            <td></td>
+            <td>Liste de documents et des concepts métiers associés</td>
+            <td>Permet d’extraire les concepts métiers dont “parle” les documents</td>
         </tr>
+        <tr>
+            <td>1.3.</td>
+            <td>Applications</td>
+            <td>Document permettant d’identifier les applications informatiques  actuellement en charge des activités métiers</td>
+            <td>Liste d'applications informatique et des modèles de données associés</td>
+            <td>Permet de faire du “reverse engineering” à partir des modèles de données de chaque application</td>
+        </tr>
+        <tr>
+            <td>1.4.</td>
+            <td>Vocabularies</td>
+            <td>Liste de vocabulaires</td>
+            <td>Permet d’identifier les concepts métiers dénommé par les termes du vocabulaire</td>
+            <td></td>
         <tr>
             <td>1.0.</td>
             <td>Overview</td>
