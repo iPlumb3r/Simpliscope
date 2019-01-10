@@ -35,10 +35,10 @@ Proposition
             <td>Quelle est sa “largeur” et sa “profondeur” ?</br>Quel est sont impact ?</td>
             <td>Le périmètre d’une ontologie se définit d’abord et avant tout par la liste exhaustive des activités métiers devant être supportées.
 Ensuite, dans certaines circonstances, il peut être utile d'identifier en complément :
-Les documents à remplacer
-Les applications informatiques impactées
-Les vocabulaires utilisées
-Les individus concernés</td>
+* Les documents à remplacer
+* Les applications informatiques impactées
+* Les vocabulaires utilisées
+* Les individus concernés</td>
         </tr>
     </tbody>
 </table>
