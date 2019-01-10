@@ -24,9 +24,9 @@ Proposition
             <td>Document(s) permettant de définir la finalité de l’ontologie</td>
             <td>Quel son but, son usage clef ?</br>A qui et à quoi va-t-elle servir ?</td>
             <td>Il est pertinent d'identifier les  3  choses suivantes :
-* Les objectifs à atteindre
-* Les facteurs influençants (éléments perturbants le fonctionnement actuel)
-* Les initiatives imaginées pour répondre aux objectifs  tout en contrant les influences</td>
+</br>* Les objectifs à atteindre
+</br>* Les facteurs influençants (éléments perturbants le fonctionnement actuel)
+</br>* Les initiatives imaginées pour répondre aux objectifs  tout en contrant les influences</td>
         </tr>
         <tr>
             <td>1.</td>
@@ -39,6 +39,37 @@ Ensuite, dans certaines circonstances, il peut être utile d'identifier en compl
 * Les applications informatiques impactées
 * Les vocabulaires utilisées
 * Les individus concernés</td>
+        </tr>
+         <tr>
+            <td>1.0.</td>
+            <td>Overview</td>
+            <td>Document de présentation concise du périmètre de l’ontologie</td>
+            <td>Liste des activités métiers à supporter</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>1.1.</td>
+            <td>Use Case</td>
+            <td>Document(s) permettant de décrire de manière détaillée les usages de l’ontologie</td>
+            <td>Description des activités métiers de manière générique ou de manière spécifique via des cas d'usages concrets.</br>Un cas d’usage étant vu comme une activité métier “instancié” (avec utilisation d’individus).
+</td>
+            <td>Pour chaque activité et/ou cas d’usage : 
+Rôle impliqué(s)
+Finalité
+Description
+Evènement déclencheur
+Concepts produits
+Concepts consommés
+Exigences associées
+Commentaires
+</td>
+        </tr>
+        <tr>
+            <td>1.0.</td>
+            <td>Overview</td>
+            <td>Document de présentation concise du périmètre de l’ontologie</td>
+            <td>Liste des activités métiers à supporter</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
