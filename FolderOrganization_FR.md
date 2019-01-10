@@ -3,7 +3,7 @@
 
 Introduction
 -
-L'organisation proposée découle directement de la méthodologie de conception d'une ontologie telle présentée <a href="https://docs.google.com/document/d/10uLIh04yptZ8NwRA6wBGdvEjfF96tPkB1S0ggKmjw8o">ICI</a>
+L'organisation proposée découle directement de la méthodologie de conception d'une ontologie telle que présentée <a href="https://docs.google.com/document/d/10uLIh04yptZ8NwRA6wBGdvEjfF96tPkB1S0ggKmjw8o">ICI</a>
 
 Proposition
 -
@@ -29,11 +29,16 @@ Les facteurs influençants (éléments perturbants le fonctionnement actuel)
 Les initiatives imaginées pour répondre aux objectifs  tout en contrant les influences</td>
         </tr>
         <tr>
-            <td>B1</td>
-            <td>B2</td>
-            <td>B3</td>
-            <td>B3</td>
-            <td>B3</td>
+            <td>1.</td>
+            <td>Scope</td>
+            <td>Document(s) permettant de définir le périmètre de l’ontologie</td>
+            <td>Quelle est sa “largeur” et sa “profondeur” ?</br>Quel est sont impact ?</td>
+            <td>Le périmètre d’une ontologie se définit d’abord et avant tout par la liste exhaustive des activités métiers devant être supportées.
+Ensuite, il peut être utile d'identifier en complément dans certaines circonstances :
+Les documents à remplacer
+Les applications informatiques impactées
+Les vocabulaires utilisées
+Les individus concernés</td>
         </tr>
     </tbody>
 </table>
