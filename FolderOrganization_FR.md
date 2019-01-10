@@ -34,7 +34,7 @@ Les initiatives imaginées pour répondre aux objectifs  tout en contrant les in
             <td>Document(s) permettant de définir le périmètre de l’ontologie</td>
             <td>Quelle est sa “largeur” et sa “profondeur” ?</br>Quel est sont impact ?</td>
             <td>Le périmètre d’une ontologie se définit d’abord et avant tout par la liste exhaustive des activités métiers devant être supportées.
-Ensuite, il peut être utile d'identifier en complément dans certaines circonstances :
+Ensuite, dans certaines circonstances, il peut être utile d'identifier en complément :
 Les documents à remplacer
 Les applications informatiques impactées
 Les vocabulaires utilisées
