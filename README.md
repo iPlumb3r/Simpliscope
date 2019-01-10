@@ -32,7 +32,7 @@ L’axe d’analyse incarné par chaque __aspect__ est généralement structuré
 
 Suite ...
 -
-Plus d'info dans les articles suivants.  
+Plus d'info dans les articles suivants :   
 <a href="https://www.linkedin.com/pulse/le-dicho-scope-et-principe-de-separation-concerns-bernard-chabot/">Le dicho-scope et le principe de "Separation Of Concerns"</a>
 
 <a href="https://www.linkedin.com/pulse/le-dicho-scope-et-les-dichotomies-g%C3%A9n%C3%A9riques-bernard-chabot/">Le dicho-scope et les dichotomies génériques</a>
