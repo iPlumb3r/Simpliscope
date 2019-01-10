@@ -81,14 +81,56 @@ Ensuite, dans certaines circonstances, il peut être utile d'identifier en compl
         <tr>
             <td>1.4.</td>
             <td>Vocabularies</td>
+            <td>Document permettant d’identifier les vocabulaires potentiellement intéressant pour l’ontologie</td>
             <td>Liste de vocabulaires</td>
             <td>Permet d’identifier les concepts métiers dénommé par les termes du vocabulaire</td>
-            <td></td>
         <tr>
-            <td>1.0.</td>
-            <td>Overview</td>
-            <td>Document de présentation concise du périmètre de l’ontologie</td>
-            <td>Liste des activités métiers à supporter</td>
+            <td>1.5.</td>
+            <td>Individuals</td>
+            <td>Document  permettant  d'identifier les individus du périmètre</td>
+            <td>Liste d’individus, classé par concept(s)</td>
+            <td>Permet de remonter au concept depuis l'individu identifié</td>
+        </tr>
+         <tr>
+            <td>2.</td>
+            <td>Semantic</td>
+            <td>Document(s) permettant de définir le modèle sémantique des concepts métiers</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2.0.</td>
+            <td>Conceptionary</td>
+            <td>Document listant les concepts métiers candidats au modèle</td>
+            <td>Liste de référence des concepts métiers</td>
+            <td>our chaque concept : 
+</br>* Terme préféré (obligatoire / unique)
+</br>* Termes alternatifs (optionnel / multiple)
+</br>* Description (obligatoire / unique)
+</br>* Commentaire (optionnel / multiple)
+</br>* Exemples (idéalement 3 à 5)
+</br>* Classification (le cas échant)
+</td>
+        </tr>
+        <tr>
+            <td>2.1.</td>
+            <td>Model</td>
+            <td>Documents mettant en relation les concepts métiers</td>
+            <td>Mise en relation des concept métiers (et propriétés)</td>
+            <td>Graphes, Tables de propriétés, ...</td>
+        </tr>
+        <tr>
+            <td>2.2.</td>
+            <td>Rules</td>
+            <td>Documents décrivant la manière dont le modèls sémantique des concepts métiers est contraint / controlé</td>
+            <td>Règles métiers de structure “si ... , alors …”</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3.0.</td>
+            <td>Ontologie</td>
+            <td>To Be Defined by Thomas</td>
+            <td></td>
             <td></td>
         </tr>
     </tbody>
