@@ -33,12 +33,12 @@ Proposition
             <td>Scope</td>
             <td>Document(s) permettant de définir le périmètre de l’ontologie</td>
             <td>Quelle est sa “largeur” et sa “profondeur” ?</br>Quel est sont impact ?</td>
-            <td>Le périmètre d’une ontologie se définit d’abord et avant tout par la liste exhaustive des activités métiers devant être supportées.
+            <td>Le périmètre d’une ontologie se définit d’abord et avant tout par la liste exhaustive des activités métiers devant être supportées.</br>
 Ensuite, dans certaines circonstances, il peut être utile d'identifier en complément :
-* Les documents à remplacer
-* Les applications informatiques impactées
-* Les vocabulaires utilisées
-* Les individus concernés</td>
+</br>* Les documents à remplacer
+</br>* Les applications informatiques impactées
+</br>* Les vocabulaires utilisées
+</br>* Les individus concernés</td>
         </tr>
          <tr>
             <td>1.0.</td>
@@ -54,15 +54,22 @@ Ensuite, dans certaines circonstances, il peut être utile d'identifier en compl
             <td>Description des activités métiers de manière générique ou de manière spécifique via des cas d'usages concrets.</br>Un cas d’usage étant vu comme une activité métier “instancié” (avec utilisation d’individus).
 </td>
             <td>Pour chaque activité et/ou cas d’usage : 
-Rôle impliqué(s)
-Finalité
-Description
-Evènement déclencheur
-Concepts produits
-Concepts consommés
-Exigences associées
-Commentaires
+</br>* Rôle impliqué(s)
+</br>* Finalité
+</br>* Description
+</br>* Evènement déclencheur
+</br>* Concepts produits
+</br>* Concepts consommés
+</br>* Exigences associées
+</br>* Commentaires
 </td>
+        </tr>
+        <tr>
+            <td>1.0.</td>
+            <td>Overview</td>
+            <td>Document de présentation concise du périmètre de l’ontologie</td>
+            <td>Liste des activités métiers à supporter</td>
+            <td></td>
         </tr>
         <tr>
             <td>1.0.</td>
