@@ -1,4 +1,4 @@
-# Organisation des répertoires pour la conception d'une ontologie
+# Organisation des répertoires d'un référentiel Github pour la conception d'une ontologie
 >>> Une place pour chaque document et chaque document à sa place ;-)
 
 Introduction
