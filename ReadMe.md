@@ -14,4 +14,4 @@ Introduction
 -
 To continu in French its <a href="https://github.com/iPlumb3r/Dicho-Scope/blob/master/Introduction_FR.md">here</a>.
 
-To continu in English its <a href="https://github.com/iPlumb3r/Dicho-Scope/blob/master/Introduction_EN.md">here</a>
+To continu in English its <a href="https://github.com/iPlumb3r/Dicho-Scope/blob/master/Introduction_EN.md">here</a>.  
