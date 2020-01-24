@@ -29,7 +29,17 @@ Semantic lenses are "elementary" semantic models for observing a __field of know
 
 The axis of analysis embodied by each __aspect__ is generally structured by a dichotomy (or even a trichotomy), which means that the thing observed is either of one "nature" or of the other, but cannot be of both, and that it must therefore obey this alternative requirement.
 
-More...
+Generic lenses
+-
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/0_Concept_VS_Term">Concept VS Term"</a>
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/1_Subject_VS_Object">Subject VS Object"</a>
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/2_Role_VS_Topic">Role VS Topic"</a>
+
+Specific lenses (PLM Domain)
+-
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/3_Intention_VS_Extension">Intention VS Extention"</a>
+
+Continued...
 -
 More info in the following articles:   
 * <a href="https://www.linkedin.com/pulse/le-dicho-scope-et-principe-de-separation-concerns-bernard-chabot/">The dicho-scope and the principle of "Separation Of Concerns"</a>
