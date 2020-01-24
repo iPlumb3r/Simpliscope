@@ -10,9 +10,9 @@ On the one hand, there are the "natural" (or "extensional") products, which are 
 
 In order to determine unambiguously "which product we are talking about", it is necessary to specify on which "intersection" it is located. For example:
 
-* A "as designed" truck
+* An "as designed" truck
 * An "as to be build" engine
-* A "as manufactured" gearbox
+* An "as manufactured" gearbox
  …
 
 In this way, each "intersection" product is thus characterized by both : 
