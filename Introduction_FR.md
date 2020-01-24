@@ -29,6 +29,16 @@ Les _lentilles sémantiques_ sont des modèles sémantiques “élémentaires”
 
 L’axe d’analyse incarné par chaque __aspect__ est généralement structuré par une dichotomie (voire d’une trichotomie), ce qui signifie que la chose observée relève soit d’une “nature”, soit de l’autre, mais ne peut pas relever des 2 à la fois, et qu’elle doit ainsi obéir à cette exigence d’alternative.
 
+Lentilles génériques
+-
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/0_Concept_VS_Term">Concept VS Terme"</a>
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/1_Subject_VS_Object">Sujet VS Object"</a>
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/2_Role_VS_Topic">Rôle VS Topic"</a>
+
+Lentilles spécifiques (Domaine PLM)
+-
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/3_Intention_VS_Extension">Intention VS Extention"</a>
+
 Suite ...
 -
 Plus d'info dans les articles suivants :   
