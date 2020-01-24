@@ -1,4 +1,4 @@
-# "Intent VS Extension" lens
+# "Intention VS Extension" lens
 
  This dichotomy makes it possible to distinguish 2 main fundamental categories of products.
 
