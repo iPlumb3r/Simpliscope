@@ -12,5 +12,5 @@ Providing a powerful conceptual analysis tool for building rubust and modulable 
 
 Introduction
 -
-To continue in English its <a href="https://github.com/iPlumb3r/Dicho-Scope/blob/master/Introduction_EN.md">here</a>.  
+To continue in English, it's <a href="https://github.com/iPlumb3r/Dicho-Scope/blob/master/Introduction_EN.md">here</a>.  
 Pour continuer en Français, c'est <a href="https://github.com/iPlumb3r/Dicho-Scope/blob/master/Introduction_FR.md">ici</a>.
