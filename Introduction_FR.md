@@ -31,10 +31,10 @@ L’axe d’analyse incarné par chaque __aspect__ est généralement structuré
 
 Lentilles
 -
- * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/0_Concept_VS_Term">Concept VS Terme"</a>
- * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/1_Intention_VS_Extension">Intention VS Extention"</a>
- * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/2_Role_VS_Topic">Rôle VS Topic"</a>
- * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/3_Subject_VS_Object">Sujet VS Objet"</a>
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/0_Concept_VS_Term">"Concept VS Terme"</a>
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/1_Intention_VS_Extension">"Intention VS Extention"</a>
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/2_Role_VS_Topic">"Rôle VS Topic"</a>
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/3_Subject_VS_Object">"Sujet VS Objet"</a>
 
 
 Resources
