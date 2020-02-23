@@ -32,7 +32,7 @@ The axis of analysis embodied by each __aspect__ is generally structured by a di
 Lenses
 -
  * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/0_Concept_VS_Term">"Concept VS Term"</a>
- * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/1_Intention_VS_Extension">"Intention VS Extention"</a>
+ * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/1_Intention_VS_Extension">"Intention VS Extension"</a>
  * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/2_Role_VS_Topic">"Role VS Topic"</a>
  * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/3_Subject_VS_Object">"Subject VS Object"</a>
 
