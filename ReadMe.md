@@ -1,6 +1,55 @@
 Dicho-Scope
 ==
 
+Initiative ID Card
+-
+<table>
+    <thead>
+        <tr>
+            <th>What ?</th>
+            <th>Label</th>
+            <th>EBR ID</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+            <th>Name</th>
+            <td>Dicho-Scope</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Description</th>
+            <td>Providing a powerful conceptual analysis tool for building rubust and modulable ontologies</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Deliverable</th>
+            <td>Semantic Lenses (based on the "Separation Of Concerns" Principle)</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Tags</th>
+            <td>#SeparationOfConcenrs #SemanticLenses</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Domain</th>
+            <td>Knowledge Engineering</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Used By</th>
+            <td><a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo">BizApp-Spec-Methodo</a></td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Big Picture</th>
+            <td><a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a>. See <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Overview</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>
+        </tr>
+    </tbody>
+</table>
+
 Mantra 
 -
 The "Separation Of Concerns" Principle is a very important principle for any design process ...   
