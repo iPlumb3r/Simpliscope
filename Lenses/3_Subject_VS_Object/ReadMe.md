@@ -1,6 +1,6 @@
 # Subject VS Object 
 
-Both __subjects__ and __object__ are __Concepts__
+Both __Subjects__ and __Object__ are __Concepts__
 
 But __Subjects__ are the "veritable" center of interest of a given _knowledge domain_ ...   
 ... where __objects__ are "just" representations - usualy documentary ones - of __subjects__
