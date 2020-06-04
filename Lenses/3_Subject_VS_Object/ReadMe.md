@@ -2,8 +2,8 @@
 
 Both __Subjects__ and __Object__ are __Concepts__
 
-But __Subjects__ are the "veritable" center of interest of a given _knowledge domain_ ...   
-... where __objects__ are "just" representations - usualy documentary ones - of __subjects__
+But __Subjects__ are the "veritable" center of interest of a given _Knowledge Domain_ ...   
+... where __Objects__ are "just" representations - usualy documentary ones - of __subjects__
 
 ## Hello World Example 
 
