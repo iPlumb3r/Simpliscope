@@ -7,7 +7,7 @@ But __Subjects__ are the "veritable" center of interest of a given _knowledge do
 
 ## Hello World Example 
 
-A Person is __subject__.  
+A Person is __Subject__.  
 An ID Card (of a Person) is an __Object__
 
 ## PLM Example 
