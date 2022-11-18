@@ -59,7 +59,7 @@ The "Separation Of Concerns" Principle is a very important principle for any des
 
 Motivation
 -
-Providing a powerful conceptual analysis tool for building rubust and modulable ontologies
+Providing a powerful conceptual analysis tool for building robust and modulable ontologies
 
 Introduction
 -
