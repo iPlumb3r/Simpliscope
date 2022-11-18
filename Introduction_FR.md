@@ -4,7 +4,7 @@ Introduction
 -
 A l’instar du __microscope__ qui permet de voir gros ce qui est petit et du __télescope__ qui permet de voir près ce qui est loin, le __dichoscope__ permet de "voir" simplement ce qui est complexe.
 
-Mais contrairement au __microscope__ et au __télescope__, il n’est pas possible d’aller acheter un __dichoscope__ chez un quelconque marchant en ville, ni même d’en commander un sur Internet !
+Mais contrairement au __microscope__ et au __télescope__, il n’est pas possible d’aller acheter un __dichoscope__ chez un quelconque marchand en ville, ni même d’en commander un sur Internet !
 
 En effet, le __dichoscope__ est un outil intangible, sans aucune réalité physique, qui permet seulement (mais c’est déjà beaucoup ;-) de réaliser des “expériences de pensée” dans un but analytique …
 
