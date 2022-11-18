@@ -2,7 +2,7 @@
 
 Introduction
 -
-A l’instar du __microscope__ qui permet de voir gros ce qui est petit et du __télescope__ qui permet de voir près ce qui est loin, le __dichoscope__ permet de "voir" simplement ce qui est complexe.
+A l’instar du __microscope__ qui permet de voir __gros ce qui est petit__ et du __télescope__ qui permet de voir __près ce qui est loin__, le __dichoscope__ permet de "voir" __simplement ce qui est complexe__.
 
 Mais contrairement au __microscope__ et au __télescope__, il n’est pas possible d’aller acheter un __dichoscope__ chez un quelconque marchand en ville, ni même d’en commander un sur Internet !
 
