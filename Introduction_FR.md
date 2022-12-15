@@ -24,9 +24,9 @@ Le _principe de “Separation Of Concerns”_ permet d'étudier les différents 
 
 Les _lentilles sémantiques_ sont des modèles sémantiques “élémentaires” permettant d’observer un __domaine de connaissances__ dans le but de le modéliser de la manière la plus pertinente possible. Elles peuvent être
 
- * génériques (relatives aux domaines de connaissances en général) ou spécifiques (relatives à un domaine de connaissances particulier)
- * absolues (un élément doit être l'un ou l'autre exclusiement) ou relatives (un élément peut-être l'un et l'autre mutuellement) 
- * singulières ou plurielles
+ * __génériques__ (relatives aux domaines de connaissances en général) ou __spécifiques__ (relatives à un domaine de connaissances particulier)
+ * __absolues__ (un élément doit être l'un ou l'autre exclusiement) ou __relatives__ (un élément peut-être l'un et l'autre mutuellement) 
+ * __singulières__ ou __plurielles__
 
 L’axe d’analyse incarné par chaque __aspect__ est généralement structuré par une dichotomie (voire d’une trichotomie), ce qui signifie que la chose observée relève soit d’une “nature”, soit de l’autre, mais ne peut pas relever des 2 à la fois, et qu’elle doit ainsi obéir à cette exigence d’alternative.
 
