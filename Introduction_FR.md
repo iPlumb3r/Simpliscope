@@ -22,10 +22,11 @@ Principe
 -
 Le _principe de “Separation Of Concerns”_ permet d'étudier les différents __aspects__ d’un produit ou d’un système et qui considère comme une bonne pratique de “séparer” (dans le sens “distinguer formellement”) les __aspects__ qui relèvent de “logiques” différentes.
 
-Les _lentilles sémantiques_ sont des modèles sémantiques “élémentaires” permettant d’observer un __domaine de connaissances__ dans le but de le modéliser de la manière la plus pertinente possible. Elles se subdivisent en les catégories suivantes :
+Les _lentilles sémantiques_ sont des modèles sémantiques “élémentaires” permettant d’observer un __domaine de connaissances__ dans le but de le modéliser de la manière la plus pertinente possible. Elles peuvent être
 
- * génériques : c-à-d relatives aux domaines de connaissances en général
- * spécifiques : c-à-d relatives à un domaine de connaissances particulier
+ * génériques (relatives aux domaines de connaissances en général) ou spécifiques (relatives à un domaine de connaissances particulier)
+ * absolues (un élément doit être l'un ou l'autre exclusiement) ou relatives (un élément peut-être l'un et l'autre mutuellement) 
+ * singulières ou plurielles
 
 L’axe d’analyse incarné par chaque __aspect__ est généralement structuré par une dichotomie (voire d’une trichotomie), ce qui signifie que la chose observée relève soit d’une “nature”, soit de l’autre, mais ne peut pas relever des 2 à la fois, et qu’elle doit ainsi obéir à cette exigence d’alternative.
 
@@ -43,12 +44,12 @@ Lentilles
     <tbody>
         <tr>
             <th>Absolues</th>
-            <td>Concept VS Terme (Domaine de COnnaissance VS Univers du Discours</td>
+            <td>Concept VS Terme (Domaine de Connaissances VS Univers du Discours)</td>
             <td>GS</td>
         </tr>
         <tr>
             <th>Relatives</th>
-            <td>Sujet VS Objet</td>
+            <td>Sujet VS Objet (Territoire VS Carte)</td>
             <td>RS</td>
         </tr>
     </tbody>
