@@ -31,6 +31,24 @@ L’axe d’analyse incarné par chaque __aspect__ est généralement structuré
 
 Lentilles
 -
+
+<table>
+    <thead>
+        <tr>
+            <th>x</th>
+            <th>Generiques</th>
+            <th>Spécifiques</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>y</td>
+            <td>Absolues</td>
+            <td>Relatives</td>
+        </tr>
+    </tbody>
+</table>
+
  * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/0_Concept_VS_Term">"Concept VS Terme"</a>
  * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/1_Intention_VS_Extension">"Intention VS Extension"</a>
  * <a href="https://github.com/iPlumb3r/Dicho-Scope/tree/master/Lenses/2_Role_VS_Topic">"Rôle VS Topic"</a>
