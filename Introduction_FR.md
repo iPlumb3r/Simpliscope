@@ -36,7 +36,7 @@ Lentilles
 <table>
     <thead>
         <tr>
-            <th> singulières (plurielles)</th>
+            <th>Singulières (Plurielles)</th>
             <th>Generiques</th>
             <th>Spécifiques</th>
         </tr>
