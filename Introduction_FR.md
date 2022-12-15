@@ -22,7 +22,7 @@ Principe
 -
 Le _principe de “Separation Of Concerns”_ permet d'étudier les différents __aspects__ d’un produit ou d’un système et qui considère comme une bonne pratique de “séparer” (dans le sens “distinguer formellement”) les __aspects__ qui relèvent de “logiques” différentes.
 
-Les _lentilles sémantiques_ sont des modèles sémantiques “élémentaires” permettant d’observer un __domaine de connaissances__ dans le but de le modéliser de la manière la plus pertinente possible. Elles peuvent être
+Les _lentilles sémantiques_ sont des modèles sémantiques “élémentaires” permettant d’observer un __domaine de connaissances__ dans le but de le modéliser de la manière la plus pertinente possible. Elles peuvent être :
 
  * __génériques__ (relatives aux domaines de connaissances en général) ou __spécifiques__ (relatives à un domaine de connaissances particulier)
  * __absolues__ (un élément doit être l'un ou l'autre exclusiement) ou __relatives__ (un élément peut-être l'un et l'autre mutuellement) 
