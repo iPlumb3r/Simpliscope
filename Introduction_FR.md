@@ -42,12 +42,12 @@ Lentilles
     </thead>
     <tbody>
         <tr>
-            <td>Absolues</td>
+            <th>Absolues</th>
             <td>Concept VS Terme (Domaine de COnnaissance VS Univers du Discours</td>
             <td>GS</td>
         </tr>
         <tr>
-            <td>Relatives</td>
+            <th>Relatives</th>
             <td>Sujet VS Objet</td>
             <td>RS</td>
         </tr>
