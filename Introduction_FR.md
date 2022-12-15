@@ -45,12 +45,12 @@ Lentilles
         <tr>
             <th>Absolues</th>
             <td>Concept VS Terme (Domaine de Connaissances VS Univers du Discours), Intention VS Extension</td>
-            <td></td>
+            <td>Intangible VS Tangible</td>
         </tr>
         <tr>
             <th>Relatives</th>
             <td>Sujet VS Objet (Territoire VS Carte)</td>
-            <td>Intangible VS Tangible</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
