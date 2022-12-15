@@ -50,7 +50,7 @@ Lentilles
         <tr>
             <th>Relatives</th>
             <td>Sujet VS Objet (Territoire VS Carte)</td>
-            <td></td>
+            <td>Besoin VS Solution</td>
         </tr>
     </tbody>
 </table>
