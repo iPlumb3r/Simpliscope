@@ -35,16 +35,21 @@ Lentilles
 <table>
     <thead>
         <tr>
-            <th>x</th>
+            <th></th>
             <th>Generiques</th>
             <th>Spécifiques</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>y</td>
             <td>Absolues</td>
+            <td>GA</td>
+            <td>GS</td>
+        </tr>
+        <tr>
             <td>Relatives</td>
+            <td>RA</td>
+            <td>RS</td>
         </tr>
     </tbody>
 </table>
