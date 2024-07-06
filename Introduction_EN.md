@@ -1,12 +1,12 @@
-# Dichoscope
+# Simpliscope
 
 Introduction
 -
-Just as the __microscope__ allows us to see big what is small and the __telescope__ allows us to see near what is far, the __dichoscope__ allows us to "see" simply what is complex.
+Just as the __microscope__ allows us to see big what is small and the __telescope__ allows us to see near what is far, the __simpliscope__ allows us to "see" simply what is complex.
 
 But unlike the __microscope__ and the __telescope__, it is not possible to buy a __dichoscope__ from any store in town, or even to order one on the Internet!
 
-In fact, the __dichoscope__ is an intangible tool, without any physical reality, which only allows (but it is already a lot ;-) to realize "thought experiments" with an analytical purpose ...
+In fact, the __simpliscope__ is an intangible tool, without any physical reality, which only allows (but it is already a lot ;-) to realize "thought experiments" with an analytical purpose ...
 
 Setting in context
 -
@@ -14,7 +14,7 @@ When designing a __computer application__ to support __business activities__, th
 
 Purpose
 -
-The __dichoscope__ is a methodological tool for knowledge engineering is essentially "made up" of the __principle of separation of considerations_ and __semantic lenses_ which allows to significantly increase the level of relevance of the __semantic model of the business concepts__ to be designed.
+The __simpliscope__ is a methodological tool for knowledge engineering is essentially "made up" of the __principle of separation of considerations_ and __semantic lenses_ which allows to significantly increase the level of relevance of the __semantic model of the business concepts__ to be designed.
 
 Remark: the _principle of separation of considerations_ (also called principle of separation of concerns or principle of separation of aspects) is better known under its Anglo-Saxon name of "Separation Of Concerns Principle". 
 
