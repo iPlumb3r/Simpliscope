@@ -1,4 +1,4 @@
-Dicho-Scope
+Simpliscope
 ==
 
 Initiative ID Card
