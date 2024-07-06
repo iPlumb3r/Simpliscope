@@ -14,7 +14,7 @@ Initiative ID Card
     <tbody>
     <tr>
             <th>Name</th>
-            <td>Dicho-Scope</td>
+            <td>Simpliscope</td>
             <td>N/A</td>
         </tr>
         <tr>
