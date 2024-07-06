@@ -1,12 +1,12 @@
-# Dichoscope
+# Simpliscope
 
 Introduction
 -
-A l’instar du __microscope__ qui permet de voir _gros ce qui est petit_ et du __télescope__ qui permet de voir _près ce qui est loin_, le __dichoscope__ permet de "voir" _simplement ce qui est complexe_.
+A l’instar du __microscope__ qui permet de voir _gros ce qui est petit_ et du __télescope__ qui permet de voir _près ce qui est loin_, le __simpliscope__ permet de "voir" _simplement ce qui est complexe_.
 
-Mais contrairement au __microscope__ et au __télescope__, il n’est pas possible d’aller acheter un __dichoscope__ chez un quelconque marchand en ville, ni même d’en commander un sur Internet !
+Mais contrairement au __microscope__ et au __télescope__, il n’est pas possible d’aller acheter un __simpliscope__ chez un quelconque marchand en ville, ni même d’en commander un sur Internet !
 
-En effet, le __dichoscope__ est un outil intangible, sans aucune réalité physique, qui permet seulement (mais c’est déjà beaucoup ;-) de réaliser des “expériences de pensée” dans un but analytique …
+En effet, le __simpliscope__ est un outil intangible, sans aucune réalité physique, qui permet seulement (mais c’est déjà beaucoup ;-) de réaliser des “expériences de pensée” dans un but analytique …
 
 Mise en contexte
 -
@@ -14,7 +14,7 @@ Lors de la conception d’une __application informatique__ devant supporter des 
 
 Finalité
 -
-Le __dichoscope__ est un outil méthodologique d'ingénierie des connaissances qui s'appui essentiellement sur le _principe de séparation des considérations_ et de _lentilles sémantiques_ qui permet d'accroitre significativement le niveau de pertinance du __modèle sémantique des concepts métiers__ à concevoir.
+Le __simplicope__ est un outil méthodologique d'ingénierie des connaissances qui s'appui essentiellement sur le _principe de séparation des considérations_ et de _lentilles sémantiques_ qui permet d'accroitre significativement le niveau de pertinance du __modèle sémantique des concepts métiers__ à concevoir.
 
 Remarque : le _principe de séparation des considérations_ (dit aussi principe de séparation des préoccupations ou principe de séparation des aspects) est plus connu sous sa dénomination anglo-saxonne de “Separation Of Concerns Principle” 
 
