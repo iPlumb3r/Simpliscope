@@ -66,9 +66,9 @@ Resources
 Plus d'info dans les articles suivants :   
 * <a href="https://www.linkedin.com/pulse/le-dicho-scope-et-principe-de-separation-concerns-bernard-chabot/">Le simpliscope et le principe de "Separation Of Concerns"</a>
 
-* <a href="https://www.linkedin.com/pulse/le-dicho-scope-et-les-dichotomies-g%C3%A9n%C3%A9riques-bernard-chabot/">Le dicho-scope et les dichotomies génériques</a>
+* <a href="https://www.linkedin.com/pulse/le-dicho-scope-et-les-dichotomies-g%C3%A9n%C3%A9riques-bernard-chabot/">Le simpliscope et les dichotomies génériques</a>
 
-* <a href="https://www.linkedin.com/pulse/le-dichoschope-et-les-dichotomies-sp%C3%A9cifiques-au-plm-bernard-chabot/">Le dichoscope et les dichotomies spécifiques au PLM</a>
+* <a href="https://www.linkedin.com/pulse/le-dichoschope-et-les-dichotomies-sp%C3%A9cifiques-au-plm-bernard-chabot/">Le simpliscope et les dichotomies spécifiques au PLM</a>
 
 
 
